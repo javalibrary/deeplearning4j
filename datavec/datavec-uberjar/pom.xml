@@ -161,7 +161,7 @@
             </dependency>
             <dependency>
                <groupId>org.datavec</groupId>
-               <artifactId>datavec-spark</artifactId>
+               <artifactId>datavec-spark_2.10</artifactId>
                <version>${project.version}</version>
             </dependency>
             <dependency>
